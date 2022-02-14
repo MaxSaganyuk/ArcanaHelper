@@ -1,0 +1,20 @@
+C:\Users\Max Saganyuk\source\repos\ArcanaHelper\ArcanaHelper\bin\Debug\ArcanaHelper.exe.config
+C:\Users\Max Saganyuk\source\repos\ArcanaHelper\ArcanaHelper\bin\Debug\ArcanaHelper.exe
+C:\Users\Max Saganyuk\source\repos\ArcanaHelper\ArcanaHelper\bin\Debug\ArcanaHelper.pdb
+C:\Users\Max Saganyuk\source\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.csprojAssemblyReference.cache
+C:\Users\Max Saganyuk\source\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.Properties.Resources.resources
+C:\Users\Max Saganyuk\source\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.csproj.GenerateResource.cache
+C:\Users\Max Saganyuk\source\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.exe
+C:\Users\Max Saganyuk\source\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.pdb
+C:\Users\Max Saganyuk\source\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.ArcanaHelper.resources
+D:\repos\ArcanaHelper\ArcanaHelper\bin\Debug\ArcanaHelper.exe.config
+D:\repos\ArcanaHelper\ArcanaHelper\bin\Debug\ArcanaHelper.exe
+D:\repos\ArcanaHelper\ArcanaHelper\bin\Debug\ArcanaHelper.pdb
+D:\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.csproj.AssemblyReference.cache
+D:\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.csproj.SuggestedBindingRedirects.cache
+D:\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.ArcanaHelper.resources
+D:\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.Properties.Resources.resources
+D:\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.csproj.GenerateResource.cache
+D:\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.csproj.CoreCompileInputs.cache
+D:\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.exe
+D:\repos\ArcanaHelper\ArcanaHelper\obj\Debug\ArcanaHelper.pdb
