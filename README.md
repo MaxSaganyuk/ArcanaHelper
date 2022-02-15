@@ -1,2 +1,2 @@
 # ArcanaHelper
-Simple "Fusion Calculator" with UI for Persona 3, 4 and 5 games
+(Unfinished )Simple "Fusion Calculator" with UI for Persona 3, 4 and 5 games
