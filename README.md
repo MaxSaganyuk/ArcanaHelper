@@ -3,9 +3,20 @@
 
 ## _Program_
 
-To determine all combinations that result in chosen arcana click one
+To determine resulting arcana between the two click both
 
+<img src="readMeImages\1.gif"></img>
 
+To determine all combinations that result in an arcana click one
 
-To determine resulting arcana between the two
+<img src="readMeImages\2.gif"></img>
+
+You can switch the game version
+
+<img src="readMeImages\3.gif"></img>
+
+## _Things not implemented_
+
+- Triangular fusion calculator for Persona 3 and 4
+- Persona 4 basic calculator
 
